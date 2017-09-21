@@ -22,7 +22,7 @@ int main()
     // Create a cola object. Constructor will be called with given parameters.
     Soda cola("Colabrus", 34, 4);
     Soda fanta("fanta", 23, 3);
-    Soda solo("solo", 25, 2)
+    Soda solo("solo", 25, 1);
     // We have a variable named cola with Soda as its data type.
 
     // Call the VendingMachine addType function with cola variable as parameter.
